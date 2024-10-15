@@ -1,2 +1,2 @@
 # Keeper-Note-Taking-App
-Created with CodeSandbox
+A final React project for the Angela Yu Complete Web Development Course
